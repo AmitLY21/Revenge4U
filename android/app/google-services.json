@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646915683662",
+    "project_id": "revenge4u-a93c5",
+    "storage_bucket": "revenge4u-a93c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646915683662:android:6df3a8f9fbed046f8a1a1f",
+        "android_client_info": {
+          "package_name": "com.example.revenge4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646915683662-k2racjdpfat1kvllm11oor29beig37p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLy-EFxKwwLDQZzuaQmBw4ctOU9ch2F44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646915683662-k2racjdpfat1kvllm11oor29beig37p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
