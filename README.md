@@ -2,6 +2,8 @@
 
 Are you tired of keeping track of your revenges in your head or on random scraps of paper? Introducing Revenge4U, the ultimate revenge management app that empowers you to plan, organize, and archive your revenges with ease! 📝🗓️
 
+![Logo](https://github.com/AmitLY21/Revenge4U/assets/62396197/4fa0818b-c1a0-472d-875f-da988d02ed9d)
+
 ## Key Features 🚀🎯
 
 - **Create and Track Revenges:** With Revenge4U, you can easily create new revenges with just a few taps. Add a title, description, and the date when you want your revenge to take place. Let the plotting begin! 💭📅
